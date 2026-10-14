@@ -1,0 +1,6 @@
+{
+  "name": "Budah Frequency",
+  "description": "Budah Frequency – A curated collection of 12 Solfeggio and harmonic frequency MP3 audio journeys for meditation, deep focus, and restorative calm.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
